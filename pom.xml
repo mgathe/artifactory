@@ -15,9 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>WebApp</finalName>
-  </build>
   <distributionManagement>
     <repository>
         <id>central</id>
@@ -30,4 +27,7 @@
         <url>http://localhost:8081/artifactory/mavenrepo</url>
     </snapshotRepository>
   </distributionManagement>
+  <build>
+    <finalName>WebApp</finalName>
+  </build>
 </project>
