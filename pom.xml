@@ -22,12 +22,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-4TRLHFA-releases</name>
-        <url>http://localhost:8082/artifactory/mavenrepo</url>
+        <url>http://localhost:8081/artifactory/mavenrepo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-4TRLHFA-snapshots</name>
-        <url>http://localhost:8082/artifactory/mavenrepo</url>
+        <url>http://localhost:8081/artifactory/mavenrepo</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
